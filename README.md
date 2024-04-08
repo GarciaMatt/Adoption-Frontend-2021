@@ -8,7 +8,6 @@ This repository contains a static multi-page website that serves as a mock front
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
